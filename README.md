@@ -1,6 +1,8 @@
 Blockchain in Python
 ---
 
+A simple skeleton of a blockchain implemented in python!
+
 Credits: http://ecomunsing.com/build-your-own-blockchain
 
 # Components
